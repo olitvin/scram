@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/xdg/stringprep"
+	"github.com/olitvin/stringprep"
 )
 
 // HashGeneratorFcn abstracts a factory function that returns a hash.Hash
