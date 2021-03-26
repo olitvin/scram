@@ -20,7 +20,7 @@ Channel binding and extensions are not (yet) supported.
 
     package main
 
-    import "github.com/olitvin/scram"
+    import "github.com/xdg-go/scram"
 
     func main() {
         // Get Client with username, password and (optional) authorization ID.

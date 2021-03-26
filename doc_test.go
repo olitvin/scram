@@ -1,6 +1,6 @@
 package scram_test
 
-import "github.com/olitvin/scram"
+import "github.com/xdg-go/scram"
 
 func Example() {
 	// Get Client with username, password and (optional) authorization ID.

@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/olitvin/stringprep"
+	"github.com/xdg-go/stringprep"
 )
 
 func TestServerConv(t *testing.T) {
